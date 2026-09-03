@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>EXPLORADORES DE LA LECTURA – 502 – FE Y ALEGRÍA MUNICIPIO DE LOS PATIOS N.D S.</value>
+    <value>EXPLORADORES DE LA LECTURA </value>
   </odeProperty>
   <odeProperty>
     <key>pp_lang</key>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1788376598877</value>
+    <value>1788396922863</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -413,6 +413,26 @@
       <value>📚 Estructuración</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>📚 Estructuración</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
       <key>titleNode</key>
       <value>📚 Estructuración</value>
     </odeNavStructureProperty>
@@ -430,6 +450,30 @@
       <key>titlePage</key>
       <value>Detectives de la idea principal</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detectives de la idea principal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
   </odePagStructures>
@@ -443,6 +487,30 @@
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>✏️ Práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>✏️ Práctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
@@ -458,6 +526,30 @@
       <key>titlePage</key>
       <value>Ordena la historia</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ordena la historia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
   </odePagStructures>
@@ -472,6 +564,30 @@
       <key>titlePage</key>
       <value>La palabra misteriosa</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La palabra misteriosa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
   </odePagStructures>
@@ -485,6 +601,30 @@
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>5. 🌎 Transferencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. 🌎 Transferencia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
